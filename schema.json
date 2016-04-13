@@ -1,0 +1,48 @@
+{
+  "item": {
+    "make": "RETEVIS",
+    "model": "H777",
+    "$price": 50,
+    "$rrp": 75
+  },
+  "category": "Electronics",
+  "subcategory": "Telecommunications",
+  "information": [
+    {
+      "shipping": {
+        "location": "US",
+        "cost": "",
+        "delivery_time": ""
+      },
+      "specifics": [
+        {
+          "Frequency Band": "UHF",
+          "Maximum Range": "3km-5km",
+          "Model": "H777",
+          "Is_Display": "No",
+          "Type": "Handheld",
+          "Storage Channel": "16 CH",
+          "Dimensions": "60×33×115 mm(Not Antenna)",
+          "Frequency Range": "UHF/400-470MHz",
+          "Brand": "RETEVIS",
+          "Use": "Civilian radio"
+        }
+      ],
+      "detail": [
+        {
+          "Product Name": "Retevis H-777 Handheld Walkie Talkie UHF 400-470MHz 3W 16CH Single Band Two Way Radio SMA-F Free-earpiece A9105A",
+          "Item Code": "214015114",
+          "Category": "Walkie Talkie",
+          "Short Description": "some short description",
+          "Quantity": "1 Lots (2 Piece / lot)",
+          "Package Size": "23.5 * 23.5 * 6.0 ( cm )",
+          "Gross Weight": "0.8 ( kg )"
+        }
+      ]
+    }
+  ],
+  "title": "Retevis H-777 Handheld Walkie Talkie UHF 400-470MHz 3W 16CH Single Band Two Way Radio SMA-F Free-earpiece A9105A",
+  "set": 2,
+  "in_stock": 82,
+  "item_id": "214015114"
+}
