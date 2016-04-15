@@ -47,7 +47,6 @@ class GetItem {
             getGeneralInfo(itemPage);
             */
             getShippingInfo(itemPage);
-
         }
 
     }

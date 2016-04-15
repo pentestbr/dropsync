@@ -21,6 +21,7 @@ class MongoDBConnect {
         return mongoClient.getDatabase(database);
     }
 
+    //search the database
     static void searchdb() {
         FindIterable<Document> iterable = connect("dropshipping").getCollection("inventory")
                 .find(new Document("category", "Electronics"));
@@ -33,6 +34,7 @@ class MongoDBConnect {
         });
     }
 
+    // add items to the database
     public void addData(MongoDatabase db) throws ParseException {
         DateFormat format = new SimpleDateFormat("yyyy-MM-dd'T'HH:mm:ss'Z'", Locale.ENGLISH);
 
